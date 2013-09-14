@@ -1,12 +1,13 @@
 {
   "name": "chronicle",
-  "description": "Static file url versioning",
+  "description": "Static file url versioning and http cache invalidation",
   "version": "0.1.0",
   "homepage": "",
   "keywords": [
     "version",
     "versioning",
-    "static"
+    "static",
+	"cache"
   ],
   "author": {
     "name": "Matt Crossly",
