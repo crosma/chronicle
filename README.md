@@ -1,4 +1,4 @@
 chronicle
 ========
 
-nodejs http cache invalidation tool
+nodejs static file url versioning and http cache invalidation
